@@ -1,6 +1,6 @@
 === PPC Lead Source ===
 Contributors: matictechnology,prosatya
-Tags: akismet, comments, spam
+Tags: ppc, lead, marketing
 Requires at least: 3.2
 Tested up to: 4.3.1
 Stable tag: 3.1.1
